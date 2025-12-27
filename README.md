@@ -4,6 +4,9 @@
 
 This project is an **Autonomous Web Scraper Agent** that leverages **OpenAI's LLM** to automatically extract structured insights from any webpage. It features a **Streamlit-based UI**, allowing users to paste a URL and get an AI-analyzed summary, product information, FAQs, or any custom task.
 
+🔗 Live Demo (Render):
+https://autonomous-web-scraper-agent-with-ai-0cni.onrender.com
+
 The agent can:
 
 * Scrape text and links from any website
